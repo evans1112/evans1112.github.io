@@ -39,3 +39,4 @@ In Preparation
 Honors and Rewards
 ======
 * UCLA Dean Scholar Fellowship, 2024, 14500$
+* UCLA Department Fellowship, 2024, 25000$
