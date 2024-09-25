@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Haocheng Zhu! I'm currently a Ph.D student at [UCLA](https://www.ucla.edu), USA. My research interest includes human perception, computational modeling for cognition and corss-modal integration. I'm doing psychophysics and neuroimaging studies at [Muiltisensory Processing Lab](https://shamslab.psych.ucla.edu) with [Dr. Ladan Shams]([https://www.ucla.edu](https://scholar.google.com/citations?user=ws5IamUAAAAJ&hl=zh-CN)).
+Hi, I'm Haocheng Zhu! I'm currently a Ph.D student at [UCLA](https://www.ucla.edu), USA. My research interest includes human perception, computational modeling for cognition and corss-modal integration. I'm doing psychophysics and neuroimaging studies at [Muiltisensory Processing Lab](https://shamslab.psych.ucla.edu) with [Dr. Ladan Shams](https://scholar.google.com/citations?user=ws5IamUAAAAJ&hl=zh-CN).
 
 Educations
 ======
