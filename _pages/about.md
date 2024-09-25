@@ -11,7 +11,7 @@ Hi, I'm Haocheng Zhu! I'm currently a Ph.D student at [UCLA](https://www.ucla.ed
 
 Educations
 ======
-* 2024.8~present, **Ph.D** in **Computational Cognition**, University of California, Los Angeles, USA
+* 2024.8-present, **Ph.D** in **Computational Cognition**, University of California, Los Angeles, USA
 * 2020.9-2024.6, **B.S** in **Psychology**, Soochow University, Suzhou, China
 
 Publications
