@@ -21,7 +21,7 @@ Published
 ------
 * **Zhu, H.**, Tang, X., Chen, T., Yang, J., Wang, A., & Zhang, M. (2023). Audiovisual illusion training improves multisensory temporal integration. Consciousness and Cognition. [link](https://doi.org/10.1016/j.concog.2023.103478)
 * **Zhu, H.**, Beierholm, U., & Shams, L. (2024). The overlooked role of unisensory precision in multisensory research. Current Biology. [link](https://doi.org/10.1016/j.cub.2024.01.057)
-* **Zhu, H.**, Beierholm, U., & Shams, L. (2024). BCI Toolbox: an open source package in python for Bayesian causal inference model. PLoS Computational Biology. [link](https://doi.org/10.1101/2024.01.02.573851)   
+* **Zhu, H.**, Beierholm, U., & Shams, L. (2024). BCI Toolbox: an open source package in python for Bayesian causal inference model. PLoS Computational Biology. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011791)   
 
 Submitted
 ------
