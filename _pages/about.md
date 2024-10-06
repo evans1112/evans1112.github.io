@@ -36,7 +36,17 @@ In Preparation
 * Quintero, S. I., Kamal, K., **Zhu, H.**, & Shams, L. (in prep). Audiovisual temporal numerosity training alters multisensory integration and unisensory processing.
 * Wang, A., Qian, Q., **Zhu, H.**, Shen, L., & Chen, Q. (in prep). Neural dynamics in multisensory temporal integration: a f-MRI study
 
+Talks & Posts
+======
+* 6th Chinese Vision Science Society Conference, poster, Wenzhou, China, 2023
+* Chinese Computational & Cognitive Neuroscience Conference, poster, HongKong, 2024
+* International Multisensory Research Forum, poster, Reno, USA, 2024
+* UCLA Cognitive Forum, talk, USA, 2024
+
+
 Honors and Rewards
 ======
 * UCLA Dean Scholar Fellowship, 2024, 14,500$
 * UCLA Department Fellowship, 2024, 25,000$
+
+
