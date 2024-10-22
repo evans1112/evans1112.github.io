@@ -42,11 +42,12 @@ Talks & Posts
 * Chinese Computational & Cognitive Neuroscience Conference, poster, HongKong, 2024
 * International Multisensory Research Forum, poster, Reno, USA, 2024
 * UCLA Cognitive Forum, talk, USA, 2024
+* The Future of Neuroscience, poster, Los Angeles, USA, 2024
 
 
 Honors and Rewards
 ======
 * UCLA Dean Scholar Fellowship, 2024, 14,500$
-* UCLA Department Fellowship, 2024, 25,000$
+* UCLA Departmental Fellowship, 2024, 25,000$
 
 
