@@ -43,6 +43,7 @@ Talks & Posts
 * International Multisensory Research Forum, poster, Reno, USA, 2024
 * UCLA Cognitive Forum, talk, USA, 2024
 * The Future of Neuroscience, poster, Los Angeles, USA, 2024
+  
 
 
 Honors and Rewards
